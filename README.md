@@ -37,3 +37,12 @@ $("select[name='dob-year']").each(function (index) { $(this).val(dobYr[index]) }
 $("#DataCollectionForms1").val("NO")
 $("#accept-terms-conditions").attr("checked", "checked")
 ```
+
+---
+
+## Notes from 2018
+
+- 3 Day sold out by `9:06`, whole event by like `9:30`
+- Refreshed at about `8:58` and it put us into the green room.
+  - Refresh seems to be what you're supposed to do to get in there?
+- Didn't try incognito or multiple different browsers to get multiple chances on each computer, not sure if it works or not.
